@@ -2,6 +2,9 @@
 
 Generador de arte geométrico con Python.
 
+![Cuadrados](result-squares.png)
+
+
 ## Librerías
 
 - turtle
