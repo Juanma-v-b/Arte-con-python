@@ -2,7 +2,11 @@
 
 Generador de arte geométrico con Python.
 
+![Mandala](result-mandala.png)
+
 ![Cuadrados](result-squares.png)
+
+![Circulos](result-circle.png)
 
 ## Librerías
 
@@ -12,5 +16,5 @@ Generador de arte geométrico con Python.
 ## Cómo ejecutar
 
 ```bash
-python main.py
+python Example.py
 ```
